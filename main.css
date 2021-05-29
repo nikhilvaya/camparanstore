@@ -193,9 +193,9 @@ img{
     margin: 5px;
 }
 .product-col-r-bottom > div:first-child{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("images/10.jpg") center/cover no-repeat;}
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("images/22.jpg") center/cover no-repeat;}
 .product-col-r-bottom > div:last-child{
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("images/11.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("images/23.jpg") center/cover no-repeat;
 }
 .product-col-content{
     text-align: center;
